@@ -1,0 +1,17 @@
+body {
+	background-image: url("lteffiel.jpg");
+	background-color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: #607b8b;
+	font-weight: bold;
+}
+h1 {
+	text-align: center;
+	color: #f6546a;
+
+}
+h2 {
+	text-align: center;
+	color: white;
+}
